@@ -12,7 +12,7 @@
 	<artifactId>TechTalentTwitter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TechTalentTwitter</name>
-	<description>Duplicates the functionality of Twitter</description>
+	<description>TTS Project that mimicks twitter</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
